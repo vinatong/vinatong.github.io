@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "인생의 고기를 만나는 곳, 프리미엄 BBQ '소판돈판'을 소개합니다!"
+title: "푸미흥 맛집! 인생의 고기를 만나는 곳, 프리미엄 BBQ '소판돈판'을 소개합니다!"
 date: 2026-06-16 16:36:00 +0700
 categories: jekyll
 thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/4e83f417803a38d5abea3d10453474828d589280-1980x1080.jpg"

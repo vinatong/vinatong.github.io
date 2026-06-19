@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "7군 푸미흥 24시간식당-오뚜기식당"
+title: "호치민 7군 푸미흥 24시간 한국 레트로식당-오뚜기식당"
 date: 2026-06-19 05:37:00 +0700
 categories: jekyll
 thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/6963d4533d334419f917918973f8634cefcd08df-1980x1080.jpg"
-description: "푸미흥맛집 한국식당 오뚜기식당은 한국의 레트로 감성을 담은 급랭삼겹살(냉삼)과 한식 찌개 백반을 전문으로 하는 인기 한식당 브랜드입니다."
+description: "호치민 7군 푸미흥 24시간 한국 레트로식당 오뚜기식당은 한국의 레트로 감성을 담은 급랭삼겹살(냉삼)과 한식 찌개 백반을 전문으로 하는 인기 한식당 브랜드입니다."
 ---
 
 [![7군 푸미흥 24시간식당-오뚜기식당](https://cdn.sanity.io/images/8xyje6wz/production/6963d4533d334419f917918973f8634cefcd08df-1980x1080.jpg)](https://www.vinatong.store/store/%ED%91%B8%EB%AF%B8%ED%9D%A5%EB%A7%9B%EC%A7%91-%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%95%9C%EA%B5%AD%EC%8B%9D%EB%8B%B9-%EC%98%A4%EB%9A%9C%EA%B8%B0%EC%8B%9D%EB%8B%B9-%ED%91%B8%EB%AF%B8%ED%9D%A5%EC%A0%90)

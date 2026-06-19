@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "투득(Thủ Đức)에서 가장 완벽한 힐링, '투득 베스트이발소'를 소개합니다!"
+title: "9군 빈홈 그랜드 파크 투득(Thủ Đức)에서 가장 완벽한 힐링, '투득 베스트이발소'를 소개합니다!"
 date: 2026-06-18 05:37:00 +0700
 categories: jekyll
 thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/1f34ab3f453c391f9497bb13555d2e5d1dee53df-1980x1080.jpg"
-description: "호치민 투득 빈홈 그랜드 파크(Vinhomes Grand Park) 지역의 숨은 보석, 투득 베스트이발소(Best Barbershop)를 소개합니다. 베트남 정통 이발소의 세심한 케어와 현대적인 쾌적함을 동시에 누릴 수 있는 토탈 힐링 공간입니다."
+description: "호치민 투득 빈홈 그랜드 파크(Vinhomes Grand Park) 지역의 숨은 보석, 투득 베스트 이발소(Best Barbershop)를 소개합니다. 베트남 정통 이발소의 세심한 케어와 현대적인 쾌적함을 동시에 누릴 수 있는 토탈 힐링 공간입니다."
 ---
 
 [![투득 베스트이발소](https://cdn.sanity.io/images/8xyje6wz/production/1f34ab3f453c391f9497bb13555d2e5d1dee53df-1980x1080.jpg)](https://www.vinatong.store/store/9%EA%B5%B0-%ED%88%AC%EB%93%9D-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%9D%B4%EB%B0%9C%EC%86%8C-best-barbershop)
