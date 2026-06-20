@@ -1,10 +1,30 @@
 ---
 layout: page
-title: About
+title: "베트남 비나통(VinaTong) 회사소개"
 permalink: /about/
+thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/9777f74c56e0867837f79e7b5ee6a75e7bc49ddf-1980x1080.jpg"
+description: "비나통(VinaTong)은 베트남 호치민 푸미흥을 비롯한 지역의 할인쿠폰을 모아 혜택을 제공하고 소상공인의 홍보를 돕는 로컬 플랫폼입니다."
 ---
+### 🤝 교민 & 업소가 함께 상생하는 할인쿠폰 커뮤니티 플랫폼
+비나통(VinaTong)은 베트남 호치민 푸미흥을 비롯한 지역의 한인 및 로컬 업소들이 제공하는 할인쿠폰을 모아, 베트남 교민들에게 다양한 혜택을 제공하는 로컬 플랫폼입니다.
 
-<meta http-equiv="refresh" content="0; url={{ "/jekyll/2026/06/15/post-01.html" | relative_url }}">
-<script>
-  window.location.replace("{{ "/jekyll/2026/06/15/post-01.html" | relative_url }}");
-</script>
+### 💡 핵심 가치
+"광고비는 줄이고, 고객 혜택은 늘리고"
+베트남은 비나통으로 통한다!
+>기존의 높은 광고비 부담 대신, 그 비용을 고객 할인 혜택으로 돌려드림으로써 업체는 신규 및 단골 고객을 확보하고, 고객은 합리적인 소비를 즐길 수 있는 윈윈(Win-Win) 생태계를 지향합니다.
+
+### 🎯 비나통이 제공하는 서비스
+- 할인쿠폰 서비스: 식당, 카페, 이발소, 마사지샵 등 다양한 업종의 할인 혜택 제공 (평균 약 10%).
+
+- 스마트한 온라인 홍보 대행: 사장님은 매장 운영에 집중하실 수 있도록, 쿠퐁온라인이 광고 기획부터 콘텐츠 제작, SNS 마케팅까지 대행합니다.
+
+- 다양한 채널 마케팅: 인스타그램, 페이스북, 틱톡, 유튜브 쇼츠, 네이버 블로그 등 맞춤형 홍보 지원.
+
+### 📌 이런 분들께 추천합니다!
+<i class="ti ti-check"></i> 신규 고객 유치가 필요한 업소 사장님
+<i class="ti ti-check"></i> 단골 고객 서비스를 강화하고 싶은 사장님
+<i class="ti ti-check"></i> SNS 홍보가 어렵고 광고비 부담을 느끼는 자영업자
+
+>베트남 여행 **비나통**으로 **통**한다! 비나통은 베트남 교민 사회와 지역 업소가 함께 성장하는 따뜻한 로컬 커뮤니티를 만들어갑니다.
+
+[![비나통 VinaTong.store](https://cdn.sanity.io/images/8xyje6wz/production/9777f74c56e0867837f79e7b5ee6a75e7bc49ddf-1980x1080.jpg)](https://vinaTong.store)
