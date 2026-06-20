@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "베트남 비나통(VinaTong) 회사소개"
+title: "About"
 permalink: /about/
 thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/9777f74c56e0867837f79e7b5ee6a75e7bc49ddf-1980x1080.jpg"
 description: "비나통(VinaTong)은 베트남 호치민 푸미흥을 비롯한 지역의 할인쿠폰을 모아 혜택을 제공하고 소상공인의 홍보를 돕는 로컬 플랫폼입니다."
 ---
-### 🤝 교민 & 업소가 함께 상생하는 할인쿠폰 커뮤니티 플랫폼
+## 🤝 베트남 비나통(VinaTong) 회사소개
+
+### 교민 & 업소가 함께 상생하는 할인쿠폰 커뮤니티 플랫폼
 비나통(VinaTong)은 베트남 호치민 푸미흥을 비롯한 지역의 한인 및 로컬 업소들이 제공하는 할인쿠폰을 모아, 베트남 교민들에게 다양한 혜택을 제공하는 로컬 플랫폼입니다.
 
 ### 💡 핵심 가치
