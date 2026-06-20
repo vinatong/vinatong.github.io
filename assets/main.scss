@@ -1,0 +1,244 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+/* ==========================================================================
+   1. Paperlogy 웹 폰트 임포트 및 정의
+   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700;800;900&display=swap');
+
+@font-face {
+  font-family: 'Paperlogy';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-4Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Paperlogy';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-5Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Paperlogy';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-7Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Paperlogy';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ==========================================================================
+   2. 전체 요소 기본 폰트 및 자간 지정
+   ========================================================================== */
+html, body, p, div, h1, h2, h3, h4, h5, h6, a, span, li, ul, ol, input, textarea, button {
+  font-family: 'Paperlogy', 'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  letter-spacing: -0.01em !important;
+  word-break: keep-all !important;
+  overflow-wrap: break-word !important;
+}
+
+/* ==========================================================================
+   3. 본문 줄 간격 조절
+   ========================================================================== */
+p, entry-content p, post-content p {
+  line-height: 1.7 !important;
+}
+
+/* ==========================================================================
+   4. 기본 minima 테마 적용
+   ========================================================================== */
+@import "minima";
+
+/* ==========================================================================
+   5. 마크다운 상세 뷰어 커스텀 스타일 (Editor Pro 스펙 이식)
+   ========================================================================== */
+.post-content {
+  line-height: 1.8 !important;
+  font-size: 15.5px !important;
+  color: #111827 !important;
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .post-content {
+    color: #f9fafb !important;
+  }
+}
+
+/* Headers */
+.post-content h1 { 
+  font-size: 26px !important; 
+  font-weight: 600 !important; 
+  margin: 24px 0 12px !important; 
+  border-bottom: 1px solid #e5e7eb !important; 
+  padding-bottom: 8px !important; 
+}
+.post-content h2 { 
+  font-size: 21px !important; 
+  font-weight: 600 !important; 
+  margin: 20px 0 10px !important; 
+  border-bottom: 1px solid #f3f4f6 !important; 
+  padding-bottom: 4px !important; 
+}
+.post-content h3 { 
+  font-size: 17px !important; 
+  font-weight: 600 !important; 
+  margin: 16px 0 8px !important; 
+}
+
+/* Lists */
+.post-content ul, .post-content ol { 
+  padding-left: 24px !important; 
+  margin: 0 0 14px !important; 
+}
+.post-content li { 
+  margin: 6px 0 !important; 
+}
+
+/* Inline Code & Code Block */
+.post-content code { 
+  background: #f9fafb !important; 
+  padding: 3px 6px !important; 
+  border-radius: 4px !important; 
+  font-family: 'D2Coding', 'Consolas', monospace !important; 
+  font-size: 13.5px !important; 
+  color: #2563eb !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content code {
+    background: #111827 !important;
+    color: #60a5fa !important;
+  }
+}
+
+.post-content pre { 
+  background: #f9fafb !important; 
+  padding: 14px !important; 
+  border-radius: 8px !important; 
+  overflow-x: auto !important; 
+  margin: 0 0 14px !important; 
+  border: 1px solid #e5e7eb !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content pre {
+    background: #111827 !important;
+    border-color: #374151 !important;
+  }
+}
+
+.post-content pre code { 
+  background: none !important; 
+  padding: 0 !important; 
+  color: inherit !important; 
+  font-size: 13.5px !important; 
+}
+
+/* Blockquotes */
+.post-content blockquote { 
+  border-left: 4px solid #e5e7eb !important; 
+  padding-left: 16px !important; 
+  color: #4b5563 !important; 
+  margin: 0 0 14px !important; 
+  font-style: italic !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content blockquote {
+    border-left-color: #374151 !important;
+    color: #d1d5db !important;
+  }
+}
+
+/* Tables */
+.post-content table { 
+  border-collapse: collapse !important; 
+  width: 100% !important; 
+  margin: 0 0 14px !important; 
+  font-size: 14px !important; 
+}
+.post-content th, .post-content td { 
+  border: 1px solid #e5e7eb !important; 
+  padding: 10px 14px !important; 
+  text-align: left !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content th, .post-content td {
+    border-color: #374151 !important;
+  }
+}
+
+.post-content th { 
+  background: #f9fafb !important; 
+  font-weight: 600 !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content th {
+    background: #111827 !important;
+  }
+}
+
+/* Links & Images */
+.post-content a { 
+  color: #2563eb !important; 
+  text-decoration: none !important; 
+}
+.post-content a:hover { 
+  text-decoration: underline !important; 
+}
+
+/* 버튼(쿠폰버튼 등) 형태로 만들어진 링크 내부 텍스트 스타일 자동 예외처리 */
+.post-content a[style*="background-color"],
+.post-content a[style*="background"],
+.post-content *[style*="background-color"] a,
+.post-content *[style*="background"] a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+/* 🎟️ 인라인 스타일 버튼에 명시적인 가독성 색상(흰색) 및 밑줄 제거 강제 지정 */
+.post-content a[style*="color: white"],
+.post-content a[style*="color: #fff"],
+.post-content a[style*="color: #ffffff"] {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+.post-content a[style*="color: white"]:hover,
+.post-content a[style*="color: #fff"]:hover,
+.post-content a[style*="color: #ffffff"]:hover {
+  text-decoration: none !important;
+  opacity: 0.9;
+}
+
+.post-content hr { 
+  border: none !important; 
+  border-top: 1px solid #e5e7eb !important; 
+  margin: 20px 0 !important; 
+}
+.post-content strong { 
+  font-weight: 600 !important; 
+}
+.post-content em { 
+  font-style: italic !important; 
+}
+.post-content img { 
+  max-width: 100% !important; 
+  border-radius: 6px !important; 
+  display: block !important;
+  margin: 12px auto !important;
+}
