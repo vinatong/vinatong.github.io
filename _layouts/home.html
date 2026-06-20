@@ -17,8 +17,9 @@ layout: default
       <article class="post-card">
         <a class="post-card-link" href="{{ post.url | relative_url }}">
           <div class="post-card-image-wrapper">
-            {%- if post.thumbnail -%}
-              <img class="post-card-image" src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy" />
+            {%- assign post_thumb = post.thumbnail | default: post.image -%}
+            {%- if post_thumb -%}
+              <img class="post-card-image" src="{{ post_thumb }}" alt="{{ post.title }}" loading="lazy" />
             {%- else -%}
               <div class="post-card-image-placeholder">
                 <span>{{ post.title | slice: 0, 1 }}</span>
