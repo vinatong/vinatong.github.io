@@ -23,7 +23,7 @@ email: btmt2019@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   베트남은 비나통으로 통한다! 베트남 호치민 푸미흥 업소들의 할인쿠폰을 제공,소상공인 업소 홍보지원등 교민들을위한 정보공유 커뮤니티
 url: "https://vinatong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jprimenet
+twitter_username: ""
 github_username:  vinatong
 timezone: Asia/Ho_Chi_Minh
 # Build settings
@@ -31,7 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-google_site_verification: "WGZEl3xQD3TwJZ5LEDKXFsea_mhB5EbTweNIL-NjLyw"
+google_site_verification: ""
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
